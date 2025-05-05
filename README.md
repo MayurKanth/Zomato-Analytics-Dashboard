@@ -12,9 +12,6 @@ This project analyzes Zomato data and presents insights using an Excel dashboard
 - most popular cuisine
 
 
-## 📁 Files
-- `Zomato_Dashboard.xlsx` – Main dashboard file
-
 ## 🔧 Tools Used
 - Excel (Pivot Tables, Charts, Slicers)
 - GitHub for version control
